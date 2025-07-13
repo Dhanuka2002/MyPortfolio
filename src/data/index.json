@@ -1,0 +1,28 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/react_img.png",
+      "title": "Front-End",
+      "description": "I specialize in creating responsive, user-friendly interfaces using modern frameworks like React."
+    },
+    {
+      "id": "2",
+      "src": "./img/spring_img.png",
+      "title": "Back-End",
+      "description": "I develop robust and scalable server-side applications using technologies such as Node.js, Spring Boot, and Python."
+    },
+    {
+      "id": "3",
+      "src": "./img/figma_img.png",
+      "title": "UI & UX Design",
+      "description": "I design intuitive and aesthetically pleasing interfaces that enhance user interaction. My process involves user research."
+    },
+    {
+      "id": "4",
+      "src": "./img/mysql_img.png",
+      "title": "Database Technology",
+      "description": "Using Webflow, I build visually rich, responsive websites with clean code and fast load times to ensure optimal performance."
+    }
+  ]
+}
